@@ -5,13 +5,13 @@
 // RECODE BY ZIFABOTZ
 
 //=============『 Utama 』================== //
-global.owner = ['6281251549899'] //ganti pakai nomormu biar bot berfungsi
-global.mods = ['6281251549899'] //ganti pakai nomormu biar bot berfungsi
-global.prems = ['6281251549899'] //ganti pakai nomormu biar bot berfungsi
+global.owner = ['6283870638644'] //ganti pakai nomormu biar bot berfungsi
+global.mods = ['6283870638644'] //ganti pakai nomormu biar bot berfungsi
+global.prems = ['6283870638644'] //ganti pakai nomormu biar bot berfungsi
 
 //=============『 Info Owner 』============== //
-global.nameowner = 'ᴹᴿ᭄ DaniBotzOffcོ_1ঔৣ꧂'
-global.numberowner = '6281251549899' //ganti pakai nomor mu
+global.nameowner = 'J4RZX STORE'
+global.numberowner = '6283870638644' //ganti pakai nomor mu
 global.instagram = 'https://www.instagram.com/danibotz_official' //ganti pakai Instagram mu
 global.github = 'https://github.com/YTDANIBOTZ' //ganti aja pakai githubmu
 global.tt = '"_"' //ganti aja pakai tiktok mu
@@ -25,7 +25,7 @@ global.pulsa = '081352848936' //ganti pakai nomor pulsa mu
 global.gopay = '081352848936' //ganti pakai nomor Gopay mu
 
 //=============『 Info Bot 』=================//
-global.namebot = '❋ཻུ۪۪⸙Danibotz-Ofc⳹ ❋ཻུ۪۪' //ganti jadiin nama bot mu
+global.namebot = 'JarzxBotz' //ganti jadiin nama bot mu
 global.gc = 'https://chat.whatsapp.com/BiJs5Xl4oJA1Ama5BahUwd' //ganti pakai grup mu
 global.web = 'https://youtube.com/channel/UCoHJ9D9Sy3TLp0mUHBrj1cg' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.webm = 'https://www.instagram.com/danibotz_official' //ganti pakai Instagram mu
@@ -45,11 +45,11 @@ global.fotonya8 = 'https://telegra.ph/file/2f4105651a1d9aba5a3fc.jpg' //foto ses
 global.donasi = 'https://telegra.ph/file/4720d8dc811569a29e48f.jpg' //ganti pakai poto payment atau apa
 global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
-global.wm = '❋ཻུ۪۪Danibotz-Ofc⳹ ❋ཻུ۪۪'
+global.wm = 'JarzxBotz'
 global.watermark = wm
-global.wm2 = 'ᯤ creator by Oᵂηʀ᭄๖ۣۣۜDani_ofcོ1꧅'
-global.wm3 = 'ᯤ Dani Offcial'
-global.titlebot = 'ᗪani Offcial ✯✯✯✯✯'
+global.wm2 = 'ᯤ creator by J4RZX STORE'
+global.wm3 = 'ᯤ -------'
+global.titlebot = 'J4RZX STORE ✯✯✯✯✯'
 global.htki = '––––––『' 
 global.htka = '』––––––'
 global.media = 'https://telegra.ph/file/72168c6f1aaa90315c369.jpg'
@@ -59,8 +59,8 @@ global.eror = '_*🚨 Server Bot Sedang Error*_'
 global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
 global.stiker_wait = '⏳ Stiker sedang Proses'
-global.packname = 'DaniBotz-Ofc'
-global.author = '@Dani Official'
+global.packname = 'JarzxBotz-Ofc'
+global.author = '@Jarzx Official'
 global.bg = 'await(await fetch(https://telegra.ph/file/4a7e5f18efaadec18a7a0.jpg)).buffer()'
 
 
